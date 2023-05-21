@@ -23,13 +23,13 @@ VALUES
 
 INSERT INTO Track (id,name,duration,albom_id)
 VALUES
-(1, 'Thunderstruck', 3.17, 1),
-(2, 'Hells Bells', 5.12, 2),
-(3, 'In the middle of the night', 5.11, 3),
-(4, 'Engel', 4.24, 4),
-(5, 'Du Hast', 3.55, 4),
-(6, 'Poison', 3.46, 5),
-(7, 'Code Red', 3.31, 6);
+(1, 'Thunderstruck', 197, 1),
+(2, 'Hells Bells', 312, 2),
+(3, 'In the middle of the night', 264, 3),
+(4, 'Engel', 235, 4),
+(5, 'Du Hast', 268, 4),
+(6, 'Poison', 186, 5),
+(7, 'Code Red', 211, 6);
 
 INSERT INTO Compilation (id,name,year)
 VALUES
